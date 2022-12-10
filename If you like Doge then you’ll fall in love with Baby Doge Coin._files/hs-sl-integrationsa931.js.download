@@ -1,0 +1,1 @@
+var HsCartContentResponse={addItem:function(t,e){},updateItem:function(t,e){},deleteItem:function(t,e){},allItems:function(t,e){}};

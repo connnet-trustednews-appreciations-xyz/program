@@ -1,0 +1,208 @@
+@media only screen and (max-width: 749px){
+.site-header__logo {
+    text-align: left;
+    margin-left: 4px!important;
+}
+}
+
+
+.pswp__scroll-wrap{
+display: none!important;
+
+}
+
+
+.add-to-cart {
+    line-height: 1.42;
+    text-decoration: none;
+    text-align: center;
+    white-space: normal;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    display: inline-block;
+    padding: 11px 155px;
+    margin: 0;
+    width: auto;
+    min-width: 90px;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border-radius: 3px;
+    color: white !important;
+    background-color: #0AB5DB !important;
+}
+
+
+
+
+
+#chat-widget-container{
+
+  opacity: 1;
+  visibility: hidden!important;
+  z-index: 2147483639;
+  position: fixed;
+  bottom: 0px;
+  width: 281px;
+  height: 53px;
+  max-width: 100%;
+  max-height: calc(100% - 0px);
+  min-height: 0px;
+  min-width: 0px;
+  background-color: transparent;
+  border: 0px;
+  overflow: hidden;
+  right: 0px;
+  transition: none 0s ease 0s !important;
+  
+  
+
+}
+
+
+
+@media screen and (max-width: 768px){
+
+  .text-left{
+    text-align: center !important;
+	}
+  
+ 
+}
+
+.translation-lab-language-switcher.bottom-left{
+display: none;
+}
+
+
+.text-center{
+    text-align: center !important;
+}
+
+
+
+.site-header {
+    border-bottom: unset !important;
+}
+
+@media(max-width:991px) {
+    .mobile-nav>.mobile-nav__item {
+        background-color:unset !important;
+    }   
+}
+
+@media(min-width:992px) {
+   /* .site-nav {
+        width: 90%;
+    }*/
+  
+  .text-left{
+    text-align: left !important;
+}
+
+ 
+  
+}
+  
+  
+
+/*.drawer__contents {
+    box-shadow: 4px 4px 4px rgb(0 0 0 / 25%) !important;
+    background: #0061768c !important;
+    transition: all .3s !important;
+    backdrop-filter: blur(25px) !important;
+} */
+
+
+
+@media (max-width: 767px){
+#Partner_section {
+    padding-top: 0px!important;
+}
+  
+
+}
+
+@media (max-width: 767px){
+.contact_us_card {
+    padding: 20px 15px!important;
+    margin-bottom: 0px!important;
+}
+}
+
+
+/* 
+@media(max-width:480px) {
+.site-header__logo-image{
+    visibility: hidden !important;
+}
+}
+@media(max-width:991px) {
+    .mobile_menu_open{
+        background: white !important;  
+    }
+
+    .mobile-nav {
+        padding-left: unset !important;
+    }
+.mobile-nav__label {
+    font-family: 'ITC Conduit' !important;
+    font-weight: 500 !important;
+}
+
+.mobile-nav__link {
+        color: #000 !important;
+        padding: 15px !important;
+        text-transform: uppercase !important;
+        text-decoration: none !important;
+}
+
+.mobile-nav__item {
+    border-bottom: 0.1px solid #f8e7e7!important;
+    border-top: 0.1px solid #f8e7e7!important;
+}
+
+.mobile-nav__social {
+    list-style: none outside;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: stretch;
+    justify-content: stretch;
+    margin: 15px 0 20px 0;
+}
+
+.mobile-nav__social-item {
+    -ms-flex: 0 1 33.33%;
+    flex: -1 1 33.33%;
+    text-align: center;
+    border: 1px solid #f8e7e7;
+    margin: 0 0 -1px;
+}
+
+.mobile-nav__social a {
+    display: block;
+    padding: 8px 30px;
+}
+.mobile-nav__social a .icon {
+    position: relative;
+    top: -1px;
+}
+.icon__fallback-text {
+    clip: rect(0 0 0 0);
+    clip: rect(0,0,0,0);
+    overflow: hidden;
+    position: absolute;
+    height: 1px;
+    width: 1px;
+}
+} */
